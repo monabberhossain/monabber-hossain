@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "name": "Trendy Resale",
+        "image": "./projects/trendyresale.png",
+        "bullet1": "A fully responsive website for reselling products",
+        "bullet2": "Firebase Authentication System implemented",
+        "bullet3": "Implementation of Stripe Payment Gateway",
+        "technology": " Tailwind, Daisy UI, React.js, Firebase, MongoDB, Stripe, Vercel."
+    },
+    {
+        "id": "2",
+        "name": "Code Tutor",
+        "image": "./projects/codetutor.png",
+        "bullet1": "A fully responsive website that contains programming courses",
+        "bullet2": "Firebase Authentication System implemented",
+        "bullet3": "Course Data is loaded from a custom API",
+        "technology": " Bootstrap, React Bootstrap, React.js, Rest API, Firebase."
+    },
+    {
+        "id": "3",
+        "name": "Web Coding",
+        "image": "./projects/webcoding.png",
+        "bullet1": "A Fully Responsive & Dynamic Website",
+        "bullet2": "Several mathematical calculation implemented",
+        "bullet3": "Accessing local storage to stored value at browser end.",
+        "technology": " Bootstrap, Javascript."
+    }
+]

@@ -1,0 +1,53 @@
+[
+    {
+        "id": "1",
+        "name": "Trendy Resale",
+        "image": "https://ibb.co/476TMvT",
+        "image1": "https://ibb.co/QcxBmV5",
+        "image2": "https://ibb.co/s2sJ9DR",
+        "image3": "https://ibb.co/XkbNjzW",
+        "bullet1": "A fully responsive website for reselling products",
+        "bullet2": "Firebase Authentication System implemented",
+        "bullet3": "Implementation of Stripe Payment Gateway",
+        "bullet4": "All product under a category is displayed within a page",
+        "bullet5": "User must be logged in to make a payment",
+        "technology": " Tailwind, Daisy UI, React.js, Firebase, MongoDB, Stripe, Vercel.",
+        "client": "https://github.com/monabberhossain/trendy-resale-client",
+        "server": "https://github.com/monabberhossain/trendy-resale-server",
+        "live": "https://trendy-resale.web.app/"
+    },
+    {
+        "id": "2",
+        "name": "Code Tutor",
+        "image": "https://ibb.co/7bSmbrS",
+        "image1": "https://ibb.co/DDyx5G1",
+        "image2": "https://ibb.co/q7BGK0c",
+        "image3": "https://ibb.co/fFTYR4g",
+        "bullet1": "A fully responsive website that contains programming courses",
+        "bullet2": "Firebase Authentication System implemented",
+        "bullet3": "Course Data is loaded from a custom API",
+        "bullet4": "A blog page is introduced with interesting articles",
+        "bullet5": "User must be logged in to get premium access for courses",
+        "technology": " Bootstrap, React Bootstrap, React.js, Rest API, Firebase.",
+        "client": "https://github.com/monabberhossain/code-tutor",
+        "server": "https://github.com/monabberhossain/code-tutor-server",
+        "live": "https://code-tutor-cfa0e.web.app/"
+    },
+    {
+        "id": "3",
+        "name": "Web Coding",
+        "image": "https://ibb.co/DLhyjyH",
+        "image1": "https://ibb.co/6Z3LnPK",
+        "image2": "https://ibb.co/CQ2fq5Z",
+        "image3": "https://ibb.co/x7dMm4k",
+        "bullet1": "A Fully Responsive & Dynamic Website",
+        "bullet2": "Several mathematical calculation implemented",
+        "bullet3": "Accessing local storage to stored value at browser end.",
+        "bullet4": "A toast message is shown when activity is completed",
+        "bullet5": "A blog page is introduced with interesting articles",
+        "technology": " Bootstrap, Javascript.",
+        "client": "https://github.com/monabberhossain/web-coding",
+        "server": "",
+        "live": "https://cerulean-trifle-f4032d.netlify.app/"
+    }
+]
