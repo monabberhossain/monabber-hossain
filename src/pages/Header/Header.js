@@ -5,7 +5,10 @@ const Header = () => {
         <div className="navbar bg-stone-800 text-white font-bold">
             <div className="w-[100%] lg:w-[84%] mx-auto">
                 <div className="navbar-start">
-                    <Link className="normal-case text-xl hover:bg-sky-100 hover:text-stone-800 hover:p-3 hover:rounded-md" to="/">
+                    <Link
+                        className="normal-case text-xl hover:bg-sky-100 hover:text-stone-800 hover:p-3 hover:rounded-md"
+                        to="/"
+                    >
                         Monabber Hossain
                     </Link>
                 </div>
@@ -71,6 +74,14 @@ const Header = () => {
                                     Contact Me
                                 </Link>
                             </li>
+                            <li className="my-1 py-1 rounded-md border border-sky-100 hover:bg-sky-100">
+                                <Link
+                                    className="hover:bg-sky-100 hover:text-stone-800"
+                                    to="/blog"
+                                >
+                                    Blog
+                                </Link>
+                            </li>
                         </ul>
                     </div>
                 </div>
@@ -114,6 +125,14 @@ const Header = () => {
                                 to="/contact"
                             >
                                 Contact Me
+                            </Link>
+                        </li>
+                        <li className="my-1 py-1 rounded-md hover:bg-sky-100">
+                            <Link
+                                className="hover:bg-sky-100 hover:text-stone-800"
+                                to="/blog"
+                            >
+                                Blog
                             </Link>
                         </li>
                     </ul>
